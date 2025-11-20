@@ -37,10 +37,13 @@
 ## 📲 Connect with Me
 
 <p>
-  <a href="mailto:andreas.steven15@gmail.com" style="display:inline-block;padding:8px 16px;margin-right:8px;border-radius:6px;background-color:#1f6feb;color:#ffffff;text-decoration:none;font-weight:600;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
-    Email
+  <a href="mailto:andreas.steven15@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/andreas-steven-8359921a7/" target="_blank" style="display:inline-block;padding:8px 16px;border-radius:6px;background-color:#0a66c2;color:#ffffff;text-decoration:none;font-weight:600;">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/andreas-steven-8359921a7/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a>
 </p>
+
+<!-- - **Email**: [andreas.steven15@gmail.com](mailto:andreas.steven15@gmail.com)  
+- **LinkedIn**: [Andreas Steven](https://www.linkedin.com/in/andreas-steven-8359921a7/) -->
