@@ -64,18 +64,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a>
 </p>
-
-<!-- - **Email**: [andreas.steven15@gmail.com](mailto:andreas.steven15@gmail.com)  
-- **LinkedIn**: [Andreas Steven](https://www.linkedin.com/in/andreas-steven-8359921a7/) -->
-
-
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=64748BFF&gradient=94A3B8,CBD5E1&center=false&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+nxndi;Frontend+Developer;Building+Beautiful+UIs" alt="Typing SVG" />
-</div>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=nxndi&label=Profile%20views&color=64748b&style=plastic" alt="profile views" />
-</div>
-
----
