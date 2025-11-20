@@ -24,7 +24,7 @@
 
 - **Frameworks**: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,express" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,express," alt="Frameworks" />
 </p>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![Yii2](https://img.shields.io/badge/Yii2-41B883?style=for-the-badge&logo=yii&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -47,13 +47,10 @@
 
 ## 📈 GitHub Stats
 
-![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreas-Steven&show_icons=true&theme=tokyonight)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Steven&layout=compact&theme=tokyonight) -->
-
-## 📊 Contribution Graph
-
-[![Andreas's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Steven&theme=tokyo-night)](https://github.com/Andreas-Steven)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreas-Steven&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Steven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
