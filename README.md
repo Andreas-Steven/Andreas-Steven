@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Andreas Steven <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-Backend Developer specializing in building reliable, scalable, and maintainable backend services.
+<p align="center">Backend Developer specializing in building reliable, scalable, and maintainable backend services.</p>
 
 ---
 
