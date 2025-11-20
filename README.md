@@ -4,21 +4,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 💼 Backend Developer focusing on clean architecture and best practices  
-- ⚙️ Passionate about REST APIs, databases, and system design  
-- 🧪 Enjoy writing tests and ensuring code quality  
-- 📚 Continuously learning about backend performance and security
+- 💼 **Role:** Backend Developer focusing on clean architecture and best practices  
+- ⚙️ **Interests:** REST APIs, databases, and system design  
+- 🧪 **Mindset:** Enjoy writing tests and ensuring code quality  
+- 📚 **Learning:** Continuously exploring backend performance and security
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages**: PHP, JavaScript, TypeScript  
-- **Frameworks**: Laravel, CodeIgniter, Yii2, Express.JS  
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Postman, VSCode
+- **Languages**: 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- **Frameworks**: 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![Yii2](https://img.shields.io/badge/Yii2-41B883?style=for-the-badge&logo=yii&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+- **Databases**: 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Tools**: 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
